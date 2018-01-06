@@ -1,6 +1,11 @@
-**Please notee that i hosted my application on http://somee.com as the recommended site Heroku does not support hosting ASP.net sites.
+**Please note that i hosted my application on http://somee.com as the recommended site Heroku does not support hosting ASP.net sites.
 
 the link to my hoted site is: http://hoteloffers.somee.com/Pages/Home.aspx
+
+**the web site consists of two pages: 
+1- Home.apsx
+2 -SearchForOffer.aspx
+navigation between these pages can be accomplished using top navigation bar.
 
 my work is uploaded to GitHub following link: https://github.com/ATHSinno/Offer.git
 

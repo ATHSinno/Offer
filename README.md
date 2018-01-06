@@ -1,6 +1,6 @@
 
 **Instruction to Host My Web Application
- --To Host Web Application IIS (Internet Information System)
+ --To Host Web Application -IIS (Internet Information System) is needed.
 Step 1: From Visual Studio, publish your Web application.
 Step 2: Copy the published application folder to "C:\intepub\wwwroot" [default] folder.
 Step 3: From RUN - > inetmgr -> OK      to Open IIS 

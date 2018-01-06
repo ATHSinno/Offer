@@ -4,7 +4,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div>   
-         
         <asp:Image ID="img" runat="server" ImageUrl="~/Img/HotelBooking.jpg" CssClass="img-responsive center-block" />
     </div>
 </asp:Content>

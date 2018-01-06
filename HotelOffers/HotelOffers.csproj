@@ -66,6 +66,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Img\HotelBooking.jpg" />
     <Content Include="MasterPages\Main.Master" />
     <None Include="packages.config" />
     <Content Include="Pages\Home.aspx" />

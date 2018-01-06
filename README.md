@@ -2,7 +2,7 @@
 
 the link to my hoted site is: http://hoteloffers.somee.com/Pages/Home.aspx
 
-my work is uploaded to GitHub following link:
+my work is uploaded to GitHub following link: https://github.com/ATHSinno/Offer.git
 
 
 **Instruction to Host My Web Application
